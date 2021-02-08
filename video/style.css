@@ -1,0 +1,25 @@
+
+            body{
+                background:gray;
+            }
+
+            h1{
+                color:red;
+                background: rgba(100, 40, 0, 0.404);
+            }
+
+            p{
+                color: pink;
+                background: rgba(100, 40, 0, 0.404);
+                text-align: center;
+            }
+           
+            
+
+            .video{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+            }
+
+            
